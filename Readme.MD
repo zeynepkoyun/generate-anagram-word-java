@@ -19,4 +19,4 @@ Anagram, bir kelimenin harflerin farklı sırada ve benzersiz bir şekilde(tekra
 > Proje için anagram kombinasyonları bulunan kelime listesi "resources/input.txt
 > içerisinde örneklendirilmiştir.Çıktıları "output/" dizini altında bir dosyada
 > tutulmaktadır.
->> Note: `Bütün kombinasyonlarını oluşturmak yerine ilk kombinasyon çıktı dosyasına yazılarak sonraki kelimelere geçilmektedir.`
+>> Note: `Bütün kombinasyonlarını oluşturmak yerine ilk kombinasyon çıktı dosyasına yazılarak sonraki kelimelere geçilmektedir. Ancak kod içerisindeki break komutuna ait kod bloğu kaldırıldığında tüm kombinasyonları görüntüleyebilirsiniz.`
